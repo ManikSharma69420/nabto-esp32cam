@@ -1,7 +1,7 @@
 > **Warning**
-> Deprecation notice: This project is based on the now deprecated uNabto platform, hence this project is no longer actively maintained. The Nabto 4/Micro (uNabto) platform has been superseded by Nabto 5/Edge (see our [comparsion of the two platforms](https://docs.nabto.com/developer/guides/overview/edge-vs-micro.html)). An officially supported SDK for ESP32 is [available in github](). Also, see our guide to using Nabto Edge with ESP32.
+> Deprecation notice: This project is based on the now deprecated uNabto platform, hence this project is no longer actively maintained. The Nabto 4/Micro (uNabto) platform has been superseded by Nabto 5/Edge (see our [comparsion of the two platforms](https://docs.nabto.com/developer/guides/overview/edge-vs-micro.html)). An officially supported SDK for ESP32 is [available in github](https://github.com/nabto/edge-esp32). Also, see our [guide to using Nabto Edge with ESP32](https://docs.nabto.com/developer/platforms/embedded/esp32.html).
 >
-> We have not yet ported the ESP32 cam application from uNabto to Nabto Edge, it is expected to be available no later than Q4 2023. In the meantime, you can use a combination: Use the ESP32 uNabto demo as inspiration for the application and use the already available ESP32 integration (with no camera support yet).
+> We have not yet ported the ESP32 cam application from uNabto to Nabto Edge, it is expected to be available no later than Q4 2023. In the meantime, you can use a combination: Use the ESP32 uNabto demo as inspiration for the application and use the [already available ESP32 integration](https://github.com/nabto/edge-esp32) (with no camera support yet).
 
 # uNabto ESP32 cam demo
 
